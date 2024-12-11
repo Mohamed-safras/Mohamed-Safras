@@ -46,8 +46,8 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" align="center" width="40" height="40"/> 
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" align="center" style="background-color:red;" alt="nextjs" width="40" height="40"/> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="background-color:red;"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" align="center"  alt="nextjs" width="40" height="40"/> 
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align="center" alt="aws" width="40" height="40"/>

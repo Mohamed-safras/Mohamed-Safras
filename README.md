@@ -49,6 +49,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="center" alt="nodejs" width="40" height="40"/> 
   </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" align="center" alt="nestjs" width="40" height="40"/>
   </a> 
@@ -88,6 +91,9 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" align="center"  alt="firebase" width="40" height="40"/> 
   </a>
   <br/><br/>
+
+  <!--cloud & tools -->
+  
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align="center" alt="aws" width="40" height="40"/>
   </a>

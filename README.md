@@ -23,8 +23,12 @@
  
 <table align="center">
 <tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+<td><img height="40" src="https://skillicons.dev/icons?i=java,javascript,typescript,python"/></td>
+</tr>
+<tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-<td><img height="40" src="https://skillicons.dev/icons?i=java,javascript,typescript,python,spring,maven,hibernate,nodejs,express,nest"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=spring,maven,hibernate,nodejs,express,nest"/></td>
 </tr>
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>

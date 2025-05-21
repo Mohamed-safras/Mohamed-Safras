@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
  
-<table align="center">
+<table align="left">
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
 <td><img height="40" src="https://skillicons.dev/icons?i=java,javascript,typescript,python"/></td>
@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-<td><img height="40" src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,js,ts,npm,redux,figma"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,npm,redux,figma"/></td>
 </tr>
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>

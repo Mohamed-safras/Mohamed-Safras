@@ -19,6 +19,18 @@
   </a>
 </p>
 
+## About Me:
+ 
+👋 Hi there! I'm a Full-Stack Developer, currently working at iPay Sri Lanka specializing in Fintech technology.
+ 
+💻 My main focus is on backend development using Spring Boot and Spring Boot MVC for scalable and efficient applications. I also have experience working on frontend projects with React, and I'm passionate about bridging the gap between backend and frontend technologies.
+ 
+🎓 I'm pursuing my undergraduate degree in Computer Science at the University of Westminster, and continuously learning new tools to build seamless, full-stack solutions.
+ 
+🚀 I’m always exploring the latest in Java, JavaScript, and modern web development frameworks to sharpen my skills and push my boundaries.
+ 
+Let's connect and build something amazing together! 😊
+
 ### Languages and Tools:
  
 <table align="left">

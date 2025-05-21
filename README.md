@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Mohamed Safras</h1>
 <h4 align="left">Transforming Concepts into Seamless Usable Product</h4>
 
-- 🔭 I'm a Full-Stack Developer, currently working at at **Acentura**
+🔭 I'm a Full-Stack Developer, currently working at at **Acentura**
 
-- 🌱 💻 My main focus is on backend development using Spring Boot and Spring Boot MVC for scalable and efficient applications. I also have experience working on frontend projects with React, and I'm passionate about bridging the gap between backend and frontend technologies.
+💻 My main focus is on backend development using Spring Boot and Spring Boot MVC for scalable and efficient applications. I also have experience working on frontend projects with React, and I'm passionate about bridging the gap between backend and frontend technologies.
 
-- 👨‍💻 All of my projects are available at [https://mohamedsafras.vercel.app](https://mohamedsafras.vercel.app)
+👨‍💻 All of my projects are available at [https://mohamedsafras.vercel.app](https://mohamedsafras.vercel.app)
 
-- 📫 How to reach me **awsafras@gmail.com**
+📫 How to reach me **awsafras@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

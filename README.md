@@ -19,6 +19,47 @@
   </a>
 </p>
 
+### Languages and Tools:
+ 
+<table align="center">
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+<td><img height="40" src="https://skillicons.dev/icons?i=java,cs,net,python,spring,maven,hibernate,nodejs,express,vite"/></td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+<td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js,ts,npm,redux,figma"/></td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+<td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+<td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,jenkins,githubactions,netlify"/></td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
+<td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest"/></td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+<td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+<td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,eclipse,visualstudio,pycharm"/></td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+<td><img height="40" src="https://skillicons.dev/icons?i=kafka,grafana,bash"/></td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+<td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
+</tr>
+</table>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   

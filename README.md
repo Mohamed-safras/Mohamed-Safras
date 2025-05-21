@@ -44,7 +44,7 @@
 </tr>
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-<td><img height="40" src="https://skillicons.dev/icons?i=junit,jest"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=jest"/></td>
 </tr>
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>

@@ -1,6 +1,5 @@
 ## About Me:
 <h1 align="left">Hi 👋, I'm Mohamed Safras</h1>
-<h4 align="left">Transforming Concepts into Seamless Usable Product</h4>
 
 🔭 I'm a Full-Stack Developer, currently working at at **Acentura**
 

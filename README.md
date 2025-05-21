@@ -1,3 +1,4 @@
+## About Me:
 <h1 align="left">Hi 👋, I'm Mohamed Safras</h1>
 <h4 align="left">Transforming Concepts into Seamless Usable Product</h4>
 
@@ -9,6 +10,8 @@
 
 📫 How to reach me **awsafras@gmail.com**
 
+Let's connect and build something amazing together! 😊
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/a-w-mohamed-safras/" target="blank">
@@ -18,18 +21,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aw_mohamed_safras/" height="30" width="40" />
   </a>
 </p>
-
-## About Me:
- 
-👋 Hi there! I'm a Full-Stack Developer, currently working at iPay Sri Lanka specializing in Fintech technology.
- 
-💻 My main focus is on backend development using Spring Boot and Spring Boot MVC for scalable and efficient applications. I also have experience working on frontend projects with React, and I'm passionate about bridging the gap between backend and frontend technologies.
- 
-🎓 I'm pursuing my undergraduate degree in Computer Science at the University of Westminster, and continuously learning new tools to build seamless, full-stack solutions.
- 
-🚀 I’m always exploring the latest in Java, JavaScript, and modern web development frameworks to sharpen my skills and push my boundaries.
- 
-Let's connect and build something amazing together! 😊
 
 ### Languages and Tools:
  

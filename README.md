@@ -16,7 +16,7 @@ Let's connect and build something amazing together! 😊
 [![LinkedIn](https://img.shields.io/badge/Instagram-4f5bd5?style=for-the-badge&logo=instagramn&logoColor=white)](https://www.instagram.com/safras_bin_wadoodu)
 
 ### GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-safras&theme=dark))
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-safras&theme=dark)
 
 ### Languages and Tools:
 <table align="left">

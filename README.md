@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-<td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
 </tr>
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Safras</h1>
+<h1 align="left">Hi 👋, I'm Mohamed Safras</h1>
 <h3 align="center">Transforming Concepts into Seamless Usable Product</h3>
 
 - 🔭 I’m currently working at **Acentura**

@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-<td><img height="40" src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,npm,redux,figma"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=react,react-native,next,tailwind,html,css,npm,redux,figma"/></td>
 </tr>
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>

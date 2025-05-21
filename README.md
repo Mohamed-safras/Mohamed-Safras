@@ -14,8 +14,10 @@ Let's connect and build something amazing together! 😊
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-w-mohamed-safras/)
 [![LinkedIn](https://img.shields.io/badge/Instagram-4f5bd5?style=for-the-badge&logo=instagramn&logoColor=white)](https://www.instagram.com/safras_bin_wadoodu)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lahirudilz&theme=dark)
+
 ### Languages and Tools:
- 
 <table align="left">
 <tr>
 <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>

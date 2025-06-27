@@ -18,6 +18,7 @@ Let's connect and build something amazing together! 😊
 ### GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-safras&theme=dark)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
 
 ### Languages and Tools:
 <table align="left">

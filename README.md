@@ -15,27 +15,22 @@ Let's connect and build something amazing together! 😊
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-w-mohamed-safras/)
 [![LinkedIn](https://img.shields.io/badge/Instagram-4f5bd5?style=for-the-badge&logo=instagramn&logoColor=white)](https://www.instagram.com/safras_bin_wadoodu)
 
+### GitHub Stats
 <div align="center">
-<h2>📊 My GitHub Stats</h2>
-<table>
-<tr>
-<td align="center" style="padding: 0 5px;">
-<img src="https://git-hub-streak-stats.vercel.app?user=Mohamed-safras&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats" width="100%" />
-</td>
-<td align="center" style="padding: 0 5px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-</td>
-<td align="center" style="padding: 0 5px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
-</td>
-</tr>
-</table>
- 
+ <table>
+  <tr>
+   <td align="center" style="padding: 0 5px;">
+   <img src="https://git-hub-streak-stats.vercel.app?user=Mohamed-safras&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats" width="100%" />
+   </td>
+   <td align="center" style="padding: 0 5px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+   </td>
+   <td align="center" style="padding: 0 5px;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
+   </td>
+  </tr>
+ </table>
 </div>
-
-### GitHub Stats:
-#![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-safras&theme=dark)
-#![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=dark)
 
 ### Languages and Tools:
 <table align="left">

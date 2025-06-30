@@ -10,7 +10,7 @@
   - 🗄️ <strong>Database & Testing:</strong> MySQL, MongoDB, JUnit, Jest<br/>
   - 🔧 <strong>Best Practices:</strong> Agile methodologies, code quality & performance tuning
   <br/><br/>
-  I’m committed to continuous improvement and always eager to explore new technologies that drive innovation in the development and operations space. My goal is to engineer software that’s not only functional but also deployable, observable, and resilient—bringing development and infrastructure together for streamlined delivery.
+  I’m committed to continuous improvement and always eager to explore new technologies that drive innovation in the development and operations space. My goal is to engineer software that’s not only functional but also deployable, observable, and resilient bringing development and infrastructure together for streamlined delivery.
   <br/><br/>
   Let’s connect and explore how I can contribute to building future-ready solutions with a DevOps mindset.
   <br/>

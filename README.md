@@ -1,7 +1,7 @@
 ## About Me:
 <h1 align="left">Hi 👋, I'm Mohamed Safras</h1>
 
-<p>
+<p style="font-size:10px">
  A passionate Software Engineer with hands-on experience in microservices architecture and a strong interest in DevOps practices. Over the past 2 years, I’ve built and maintained responsive, high-performance web applications by designing modular, scalable services that align with modern cloud-native principles.
  
  🚀 Key Expertise

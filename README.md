@@ -11,7 +11,7 @@ A passionate Software Engineer with hands-on experience in microservices archite
 
 I’m committed to continuous improvement and always eager to explore new technologies that fuel innovation in the development with operation space. My goal is to engineer software that’s not only functional but also deployable, observable, and resilient bringing development and infrastructure together for streamlined delivery.
 
-Let’s connect and explore how I can contribute to building future-ready solutions with a DevOps mindset. \n
+Let’s connect and explore how I can contribute to building future-ready solutions with a DevOps mindset. <br/>
 📧 Email: awsafras@gmail.com
 
 ### Connect with me:

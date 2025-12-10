@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Mohamed Safras</h1>
 
 <p style="font-size:20px">
-  A passionate Software Engineer with hands-on experience in microservices architecture and a strong interest in DevOps practices. Over the past 2 years, I’ve built and maintained responsive, high-performance web applications by designing modular, scalable services aligned with modern cloud-native principles.
+  A passionate Software Engineer with hands-on experience in microservices architecture and a strong interest in DevOps practices. Over the past 3 years, I’ve built and maintained responsive, high-performance web applications by designing modular, scalable services aligned with modern cloud-native principles.
   <br/><br/>
   🚀 <strong>Key Expertise</strong><br/>
   - 💻 <strong>Languages & Frameworks:</strong> JavaScript, TypeScript, Java, Python, React.js, Next.js, Node.js, Nest.js, Spring Boot<br/>

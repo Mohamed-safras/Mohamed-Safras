@@ -19,7 +19,6 @@
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-w-mohamed-safras/)
-[![LinkedIn](https://img.shields.io/badge/Instagram-4f5bd5?style=for-the-badge&logo=instagramn&logoColor=white)](https://www.instagram.com/safras_bin_wadoodu)
 
 ### GitHub Stats
 <div align="center">

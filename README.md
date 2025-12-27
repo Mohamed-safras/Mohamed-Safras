@@ -3,15 +3,10 @@
 <h1 align="left">Hi 👋, I'm Mohamed Safras</h1>
 
 <p style="font-size:20px">
-
   A passionate Software Engineer with hands-on experience in microservices architecture and a strong interest in DevOps practices. Over the past 3 years, I’ve built and maintained responsive, high-performance web applications by designing modular, scalable services aligned with modern cloud-native principles.
-
   <br/><br/>
-
   🚀 <strong>Key Expertise</strong><br/>
-
   - 💻 <strong>Languages & Frameworks:</strong> JavaScript, TypeScript, Java, Python, React.js, Next.js, Node.js, Nest.js, Spring Boot<br/>
-
   - ☁️ <strong>DevOps & Cloud:</strong> AWS, Docker, Git, CI/CD fundamentals<br/>
 
   - 🗄️ <strong>Database & Testing:</strong> MySQL, MongoDB, JUnit, Jest<br/>
@@ -19,7 +14,6 @@
   - 🔧 <strong>Best Practices:</strong> Agile methodologies, code quality & performance tuning
 
   <br/><br/>
-
   I’m committed to continuous improvement and always eager to explore new technologies that drive innovation in the development and operations space. My goal is to engineer software that’s not only functional but also deployable, observable, and resilient bringing development and infrastructure together for streamlined delivery.
 
   <br/><br/>
@@ -27,9 +21,7 @@
   Let’s connect and explore how I can contribute to building future-ready solutions with a DevOps mindset.
 
   <br/>
-
   📧 <strong>Email:</strong> awsafras@gmail.com
-
 </p>
 
 ### Connect with me:

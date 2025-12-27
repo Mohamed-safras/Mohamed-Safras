@@ -26,6 +26,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melxincognito&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-safras&show_icons=true&locale=en&layout=compact" alt="mohamed-safras" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-safras&show_icons=true&locale=en" alt="mohamed-safras" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-safras&" alt="mohamed-safras" /></p>
 ### GitHub Stats
 <div align="center">
  <table>

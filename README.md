@@ -21,9 +21,10 @@ I am a Software Engineer with over 3 years of experience specializing in microse
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&theme=dark&hide_border=false&count_private=false" width="48%" />
-  
 </p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&theme=dark&hide_border=false&layout=compact" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-safras&theme=dark&hide_border=false" width="100%" />

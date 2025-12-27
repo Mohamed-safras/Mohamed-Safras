@@ -48,4 +48,5 @@ I am a Software Engineer with over 3 years of experience specializing in microse
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-w-mohamed-safras/)
+<br/>
 **Email:** awsafras@gmail.com

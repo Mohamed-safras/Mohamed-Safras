@@ -25,7 +25,7 @@
  <table>
   <tr>
    <td align="center" style="padding: 0 5px;">
-   <img src="https://streak-stats.demolab.com/?user=Mohamed-safras" />
+   <img src="https://streak-stats.demolab.com/?user=Mohamed-safras" alt="GitHub Stats" width="100%"/>
    </td>
    <td align="center" style="padding: 0 5px;">
    <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />

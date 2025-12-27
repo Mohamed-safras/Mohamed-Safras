@@ -20,13 +20,13 @@
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-w-mohamed-safras/)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mohamed-safras" alt="GitHub Streak" /></a>
+
 ### GitHub Stats
 <div align="center">
  <table>
   <tr>
    <td align="center" style="padding: 0 5px;">
-   <img src="https://git-hub-streak-stats.vercel.app?user=Mohamed-safras&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats" width="100%" />
+   <img src="https://streak-stats.demolab.com/?user=Mohamed-safras" alt="GitHub Stats" width="100%" />
    </td>
    <td align="center" style="padding: 0 5px;">
    <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />

@@ -27,7 +27,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melxincognito&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfoozm&" alt="mahfoozm" /></p>
+
+![Contributions](https://github.com/mahfoozm/mahfoozm/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Contributions](https://github.com/mahfoozm/mahfoozm/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ### Languages and Tools:
 <table align="left">

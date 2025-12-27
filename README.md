@@ -47,14 +47,6 @@ My goal is to engineer software that's not only functional but also **deployable
 <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
 </div>
 </td>
-  
-<td valign="top" width="33%">
-
-### Frontend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,scss,materialui,redux,figma" />
-</div>
-</td>
 
 <td valign="top" width="33%">
 
@@ -63,6 +55,17 @@ My goal is to engineer software that's not only functional but also **deployable
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nest,fastapi,maven,hibernate" />
 </div>
 </td>
+  
+<td valign="top" width="33%">
+
+### Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,scss,materialui,redux,figma" />
+</div>
+</td>
+</tr>
+
+<tr>
 
 <td valign="top" width="33%">
 
@@ -71,9 +74,6 @@ My goal is to engineer software that's not only functional but also **deployable
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,githubactions" />
 </div>
 </td>
-</tr>
-
-<tr>
 
 <td valign="top" width="33%">
 

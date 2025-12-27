@@ -28,22 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melxincognito&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfoozm&" alt="mahfoozm" /></p>
-### GitHub Stats
-<div align="center">
- <table>
-  <tr>
-   <td align="center" style="padding: 0 5px;">
-   
-   </td>
-   <td align="center" style="padding: 0 5px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-   </td>
-   <td align="center" style="padding: 0 5px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
-   </td>
-  </tr>
- </table>
-</div>
 
 ### Languages and Tools:
 <table align="left">

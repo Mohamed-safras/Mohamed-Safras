@@ -19,7 +19,17 @@ I am a Software Engineer with over 3 years of experience specializing in microse
 
 ### 📊 GitHub Statistics
 
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&theme=dark&hide_border=false&count_private=false" width="100" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&theme=dark&hide_border=false&layout=compact" width="100%" />

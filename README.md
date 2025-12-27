@@ -1,109 +1,55 @@
-## About Me:
+# 🚀 Mohamed Safras | Software Engineer & DevOps Enthusiast
 
-<h1 align="left">Hi 👋, I'm Mohamed Safras</h1>
-
-<p style="font-size:20px">
-  A passionate Software Engineer with hands-on experience in microservices architecture and a strong interest in DevOps practices. Over the past 3 years, I’ve built and maintained responsive, high-performance web applications by designing modular, scalable services aligned with modern cloud-native principles.
-  <br/><br/>
-  🚀 <strong>Key Expertise</strong><br/>
-  - 💻 <strong>Languages & Frameworks:</strong> JavaScript, TypeScript, Java, Python, React.js, Next.js, Node.js, Nest.js, Spring Boot<br/>
-  - ☁️ <strong>DevOps & Cloud:</strong> AWS, Docker, Git, CI/CD fundamentals<br/>
-
-  - 🗄️ <strong>Database & Testing:</strong> MySQL, MongoDB, JUnit, Jest<br/>
-
-  - 🔧 <strong>Best Practices:</strong> Agile methodologies, code quality & performance tuning
-
-  <br/><br/>
-  I’m committed to continuous improvement and always eager to explore new technologies that drive innovation in the development and operations space. My goal is to engineer software that’s not only functional but also deployable, observable, and resilient bringing development and infrastructure together for streamlined delivery.
-
-  <br/><br/>
-
-  Let’s connect and explore how I can contribute to building future-ready solutions with a DevOps mindset.
-
-  <br/>
-  📧 <strong>Email:</strong> awsafras@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/a-w-mohamed-safras/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:awsafras@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### Connect with me:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-w-mohamed-safras/)
+### 👨‍💻 About Me
 
-### 📊 GitHub Stats:
+A passionate **Software Engineer** with over 3 years of experience specializing in **Microservices Architecture** and **Cloud-Native principles**. I bridge the gap between development and infrastructure, ensuring software is not just functional, but resilient, observable, and scalable.
 
-![](https://github-readme-stats.vercel.app/api?username=Mohamed-safras&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+- 🔭 **Currently working on:** Enhancing microservices observability using Grafana & Kafka.
+- ☁️ **Focus Area:** Mastering AWS infrastructure and CI/CD automation.
+- ⚡ **Goal:** Building "future-ready" solutions with a strong DevOps mindset.
 
-![](https://nirzak-streak-stats.vercel.app/?user=Mohamed-safras&theme=dark&hide_border=false)<br/>
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🛠️ Tech Stack & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melxincognito&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![](https://skillicons.dev/icons?i=java,javascript,typescript,python,bash) |
+| **Backend** | ![](https://skillicons.dev/icons?i=spring,nodejs,express,nest,fastapi,hibernate,maven) |
+| **Frontend** | ![](https://skillicons.dev/icons?i=react,next,tailwind,html,css,redux,figma) |
+| **DevOps & Cloud** | ![](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,gcp,linux) |
+| **Databases** | ![](https://skillicons.dev/icons?i=mysql,mongodb,redis) |
+| **Testing & Others** | ![](https://skillicons.dev/icons?i=jest,postman,kafka,grafana,git) |
 
-### Languages and Tools:
+---
 
-<table align="left">
+### 📊 GitHub Activity
 
-<tr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=71717a" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=71717a" width="48%" />
+</p>
 
-<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-safras&theme=transparent&hide_border=true&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" width="100%" />
+</p>
 
-<td><img height="40" src="https://skillicons.dev/icons?i=java,javascript,typescript,python"/></td>
+---
 
-</tr>
+### 🤝 Let's Connect!
 
-<tr>
+I’m always open to discussing microservices, cloud architecture, or potential collaborations.
 
-<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+- **LinkedIn:** [Mohamed Safras](https://www.linkedin.com/in/a-w-mohamed-safras/)
+- **Email:** [awsafras@gmail.com](mailto:awsafras@gmail.com)
 
-<td><img height="40" src="https://skillicons.dev/icons?i=spring,maven,hibernate,nodejs,express,nest,fastapi,jest"/></td>
-
-</tr>
-
-<tr>
-
-<td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-
-<td><img height="40" src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,scss,materialui,styledcomponents,redux,figma"/></td>
-
-</tr>
-
-<tr>
-
-<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-
-<td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
-
-</tr>
-
-<tr>
-
-<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-
-<td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,githubactions"/></td>
-
-</tr>
-
-<tr>
-
-<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-
-<td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-
-</tr>
-
-<tr>
-
-<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-
-<td><img height="40" src="https://skillicons.dev/icons?i=kafka,grafana,bash,postman,anaconda"/></td>
-
-</tr>
-
-<tr>
-
-<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-
-<td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
-
-</tr>
-
-</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=100&section=footer" width="100%"/>
+</p>

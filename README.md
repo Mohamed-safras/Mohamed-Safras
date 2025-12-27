@@ -20,6 +20,7 @@
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-w-mohamed-safras/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-safras)](https://git.io/streak-stats)
 ### GitHub Stats
 <div align="center">
  <table>

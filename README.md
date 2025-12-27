@@ -2,33 +2,26 @@
 
 <h1 align="left">Hi 👋, I'm Mohamed Safras</h1>
 
-🚀 About Me
-I'm a passionate Software Engineer specializing in microservices architecture and DevOps practices. With over 3 years of experience, I build and maintain responsive, high-performance web applications by designing modular, scalable services aligned with modern cloud-native principles.
-My goal is to engineer software that's not only functional but also deployable, observable, and resilient — bringing development and infrastructure together for streamlined delivery.
-💼 Core Competencies
-Languages & Frameworks
+<p style="font-size:20px">
+A passionate Software Engineer with hands-on experience in microservices architecture and a strong interest in DevOps practices. Over the past 3 years, I’ve built and maintained responsive, high-performance web applications by designing modular, scalable services aligned with modern cloud-native principles.
+<br/><br/>
 
-Languages: JavaScript, TypeScript, Java, Python
-Frontend: React.js, Next.js, HTML, CSS, Tailwind, SCSS, Material-UI, Redux
-Backend: Node.js, Nest.js, Express, Spring Boot, FastAPI
+  🚀 <strong>Key Expertise</strong><br/>
 
-Cloud & DevOps
+  - 💻 <strong>Languages & Frameworks:</strong> JavaScript, TypeScript, Java, Python, React.js, Next.js, Node.js, Nest.js, Spring Boot<br/>
 
-Cloud Platforms: AWS, GCP
-Containerization & Orchestration: Docker, Kubernetes
-CI/CD: Jenkins, GitHub Actions
-Monitoring: Grafana
+  - ☁️ <strong>DevOps & Cloud:</strong> AWS, Docker, Git, CI/CD fundamentals<br/>
 
-Database & Messaging
+  - 🗄️ <strong>Database & Testing:</strong> MySQL, MongoDB, JUnit, Jest<br/>
 
-Databases: MySQL, MongoDB
-Message Broker: Apache Kafka
+  - 🔧 <strong>Best Practices:</strong> Agile methodologies, code quality & performance tuning
 
-Development Practices
+  <br/><br/>
 
-Testing: JUnit, Jest
-Version Control: Git, GitHub
-Methodologies: Agile, code quality & performance tuning
+  I’m committed to continuous improvement and always eager to explore new technologies that drive innovation in the development and operations space. My goal is to engineer software that’s not only functional but also deployable, observable, and resilient bringing development and infrastructure together for streamlined delivery.
+
+  <br/><br/>
+
   Let’s connect and explore how I can contribute to building future-ready solutions with a DevOps mindset.
 
   <br/>

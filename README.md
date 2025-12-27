@@ -39,6 +39,15 @@ My goal is to engineer software that's not only functional but also **deployable
 
 <table>
 <tr>
+
+<td valign="top" width="33%">
+
+### Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
+</div>
+</td>
+  
 <td valign="top" width="33%">
 
 ### Frontend
@@ -65,13 +74,6 @@ My goal is to engineer software that's not only functional but also **deployable
 </tr>
 
 <tr>
-<td valign="top" width="33%">
-
-### Languages
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
-</div>
-</td>
 
 <td valign="top" width="33%">
 

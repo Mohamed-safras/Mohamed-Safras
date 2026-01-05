@@ -8,7 +8,7 @@ I am a Software Engineer with over 3 years of experience specializing in microse
 
 ### 🚀 Key Expertise
 
-* **Languages:** Java, JavaScript, TypeScript, Python, Bash
+* **Languages:** Java, JavaScript, TypeScript, Python
 * **Backend:** Node.js, Nest.js, Spring Boot, Express, FastAPI, Maven, Hibernate
 * **Frontend:** React.js, Next.js, Tailwind CSS, Redux, Material UI, Figma
 * **DevOps & Cloud:** AWS, GCP, Docker, Kubernetes, Jenkins, GitHub Actions

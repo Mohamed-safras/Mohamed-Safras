@@ -24,7 +24,7 @@ I am a Software Engineer with over 3 years of experience specializing in microse
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-safras&theme=dark&hide_border=false" width="100%" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 ---
 

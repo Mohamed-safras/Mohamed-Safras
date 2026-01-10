@@ -2,7 +2,7 @@
 
 **Software Engineer | Microservices & DevOps Enthusiast**
 
-I am a Software Engineer with over 3 years of experience specializing in microservices architecture and responsive web applications. My focus is on building modular, scalable services using cloud-native principles, bridging the gap between development and resilient infrastructure.
+I'm a Software Engineer with over 3 years of experience specializing in microservices architecture and responsive web applications. My focus is on building modular, scalable services using cloud-native principles, bridging the gap between development and resilient infrastructure.
 
 ---
 
@@ -11,7 +11,7 @@ I am a Software Engineer with over 3 years of experience specializing in microse
 * **Languages:** Java, JavaScript, TypeScript, Python
 * **Backend:** Node.js, Nest.js, Spring Boot, Express, FastAPI, Maven, Hibernate
 * **Frontend:** React.js, Next.js, Tailwind CSS, Redux, Material UI, Figma
-* **DevOps & Cloud:** AWS, GCP, Docker, Kubernetes, Jenkins, GitHub Actions
+* **DevOps & Cloud:** AWS, Docker, Kubernetes, Jenkins
 * **Databases:** MySQL, MongoDB
 * **Testing & Tools:** JUnit, Jest, Kafka, Grafana, Postman, Git
 
@@ -34,7 +34,7 @@ I am a Software Engineer with over 3 years of experience specializing in microse
 | **Backend** | ![](https://skillicons.dev/icons?i=spring,maven,hibernate,nodejs,express,nest,fastapi,jest) |
 | **Frontend** | ![](https://skillicons.dev/icons?i=react,next,html,css,tailwind,scss,materialui,redux,figma) |
 | **Database** | ![](https://skillicons.dev/icons?i=mysql,mongodb) |
-| **DevOps** | ![](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,githubactions) |
+| **DevOps** | ![](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins) |
 | **Version Control**| ![](https://skillicons.dev/icons?i=git,github) |
 | **Other Tools** | ![](https://skillicons.dev/icons?i=kafka,grafana,bash,postman,anaconda) |
 | **OS** | ![](https://skillicons.dev/icons?i=windows,linux) |

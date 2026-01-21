@@ -19,7 +19,7 @@ I'm a Software Engineer with over 3 years of experience specializing in microser
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safrasa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-safras&theme=dark&hide_border=false" />
 

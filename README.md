@@ -23,6 +23,8 @@ I'm a Software Engineer with over 3 years of experience specializing in microser
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-safras&theme=dark&hide_border=false" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
 ---
 
 ### 🛠️ Languages and Tools

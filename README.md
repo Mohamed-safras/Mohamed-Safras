@@ -20,14 +20,11 @@ I'm a Software Engineer with over 3 years of experience specializing in microser
 ### 📊 GitHub Statistics
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=dark" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&show_icons=true&theme=dark&layout=compact&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=dark" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-safras&theme=dark&hide_border=false" />
 </div>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mohamed-safras&theme=dark&hide_border=false" />
-
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&show_icons=true&theme=dark&layout=compact&langs_count=6" />
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed Safras
+# Hi  I'm Mohamed Safras
 
 **Software Engineer | Microservices & AI Enthusiast**
 

@@ -11,7 +11,7 @@ I'm a Software Engineer with over 3 years of experience specializing in microser
 * **Languages:** Java, JavaScript, TypeScript, Python
 * **Backend:** Node.js, Nest.js, Spring Boot, Express, FastAPI, Maven, Hibernate, Microservices
 * **Frontend:** React.js, Next.js, Tailwind CSS, Redux, Material UI, Figma
-* **DevOps & Cloud:** AWS, Docker, Kubernetes, Jenkins
+* **DevOps & Cloud:** AWS, Docker, Kubernetes, Jenkins CI
 * **Databases:** MySQL, MongoDB
 * **Testing & Tools:** JUnit, Jest, JMeter, Postman Automation testing, Apache Kafka, Grafana, Git
 

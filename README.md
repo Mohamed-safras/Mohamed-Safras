@@ -9,7 +9,7 @@ I'm a Software Engineer with over 3 years of experience specializing in microser
 ### 🚀 Key Expertise
 
 * **Languages:** Java, JavaScript, TypeScript, Python
-* **Backend:** Node.js, Nest.js, Spring Boot, Express, FastAPI, Maven, Hibernate, Microservices
+* **Backend:** Node.js, Nest.js, Spring Boot, Express, FastAPI, Maven, Microservices
 * **Frontend:** React.js, Next.js, Tailwind CSS, Redux, Material UI, Figma
 * **DevOps & Cloud:** AWS, Docker, Kubernetes, Jenkins CI
 * **Databases:** MySQL, MongoDB
@@ -33,7 +33,7 @@ I'm a Software Engineer with over 3 years of experience specializing in microser
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | ![](https://skillicons.dev/icons?i=java,javascript,typescript,python) |
-| **Backend** | ![](https://skillicons.dev/icons?i=spring,maven,hibernate,nodejs,express,nest,fastapi,jest) |
+| **Backend** | ![](https://skillicons.dev/icons?i=spring,maven,nodejs,express,nest,fastapi,jest) |
 | **Frontend** | ![](https://skillicons.dev/icons?i=react,next,html,css,tailwind,scss,materialui,redux,figma) |
 | **Database** | ![](https://skillicons.dev/icons?i=mysql,mongodb) |
 | **DevOps** | ![](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins) |

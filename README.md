@@ -13,7 +13,7 @@ I'm a Software Engineer with 3+ years of experience specializing in microservice
 * **Frontend:** React.js, Next.js, Tailwind CSS, Redux, Redux ToolKit, Material UI, Figma
 * **DevOps & Cloud:** AWS, Docker, Kubernetes, Jenkins CI
 * **Databases:** MySQL, MongoDB
-* **Testing & Tools:** JUnit, Jest, JMeter, Postman Automation testing, Apache Kafka, Grafana, Git
+* **Testing & Tools:** JUnit, Jest, JMeter,Playwright e2e, Postman Automation testing, Apache Kafka, Grafana, Git
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Software Engineer | AI/ML Enthusiast**
 
-I'm a Software Engineer with 3+ years of experience specializing in microservices architecture and responsive web applications. My focus is on building modular, scalable services using cloud-native principles, bridging the gap between development and resilient infrastructure
+I'm a Software Engineer with 3+ years of experience specializing in microservices architecture and responsive web applications. My focus is on building modular, scalable services using cloud-native principles, bridging the gap between development and resilient infrastructure.
 
 ---
 

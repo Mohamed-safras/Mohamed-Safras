@@ -47,4 +47,4 @@ I'm a Software Engineer with 3+ years of experience specializing in microservice
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-w-mohamed-safras/)
 <br/>
-**Email:** awsafras@gmail.com
+**Email:** mohamed.safras.aw@gmail.com
